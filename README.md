@@ -59,14 +59,6 @@ Applying machine learning techniques to predict the success of SpaceX's first-st
 
 The project culminates in a final presentation that summarizes the findings, insights, and the results of the predictive analysis. 
 
-## Project Structure
-
-- `data/`: Contains datasets used for analysis.
-- `notebooks/`: Jupyter notebooks with code for data analysis and modeling.
-- `dashboards/`: Files related to interactive dashboards.
-- `presentation/`: Presentation materials for summarizing the project.
-- `README.md`: This file providing an overview of the project.
-
 ## Results and Findings
 
 - I have successfully predicted the first-stage reuse of SpaceX Falcon 9 rockets with a high degree of accuracy using machine learning.
