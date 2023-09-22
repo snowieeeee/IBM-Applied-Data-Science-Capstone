@@ -38,18 +38,17 @@ The collected data is preprocessed and cleaned, ensuring it is ready for analysi
 
 SQL queries are leveraged to perform exploratory data analysis, gaining insights into the data from different angles. SQL allows for efficient data querying and analysis.
 
-### EDA with Visualization Lab
-
-Exploratory data analysis continues with the use of Python data visualization libraries. Informative charts, graphs, and visualizations are created to analyze
-relationships and uncover patterns and trends.
+### EDA with Visualization
+Exploratory data analysis continues with the use of Python data visualization libraries. Informative charts, graphs, and visualizations are created to analyze relationships 
+and uncover patterns and trends.
 
 ### Interactive Visual Analytics with Folium
 
 Using Folium to create interactive maps and visualize spatial data related to rocket launches and landing sites.
 
-### Dashboard Application (Code)
+### Dashboard Application
 
-Interactive dashboards are developed using Plotly Dash to present the findings and analysis results in an easily digestible format. The code for these dashboards is included in this repository.
+Developing interactive dashboards using Plotly Dash to present the findings and analysis results in an easily digestible format. 
 
 ### Predictive Analysis - Machine Learning Lab
 
