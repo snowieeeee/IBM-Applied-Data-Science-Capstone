@@ -59,9 +59,3 @@ The project culminates in a final presentation that summarizes the findings, ins
 
 - I have successfully predicted the first-stage reuse of SpaceX Falcon 9 rockets with a high degree of accuracy using machine learning.
 - The cost of each SpaceX Falcon 9 launch has been estimated, providing valuable insights for Space X's pricing strategy.
-
-## Certificate
-
-<div align="center">
-  <img src="https://github.com/snowieeeee/IBM-Applied-Data-Science-Capstone/blob/main/data-science-professional-certificate.png" alt="Badge Alt Text">
-</div>
