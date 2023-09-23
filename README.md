@@ -63,5 +63,5 @@ The project culminates in a final presentation that summarizes the findings, ins
 ## Certificate
 
 <div align="center">
-  <img src="[Image URL](https://github.com/snowieeeee/IBM-Applied-Data-Science-Capstone/blob/main/data-science-professional-certificate.png)https://github.com/snowieeeee/IBM-Applied-Data-Science-Capstone/blob/main/data-science-professional-certificate.png" alt="Badge Alt Text">
+  <img src="https://github.com/snowieeeee/IBM-Applied-Data-Science-Capstone/blob/main/data-science-professional-certificate.png" alt="Badge Alt Text">
 </div>
