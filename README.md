@@ -3,6 +3,8 @@ This repository is dedicated to my IBM Applied Data Science Capstone Project.
 
 ## Project Overview
 
+Welcome to the Space Y Data Science Capstone Project repository! This project explores various aspects of the commercial space industry and pricing strategy, with a focus on SpaceX's Falcon 9 rocket launches. We undertake a comprehensive data-driven analysis and prediction approach to provide valuable insights for Space Y, a new player in the space industry aiming to compete with SpaceX.
+
 The commercial space industry is evolving rapidly, with companies like SpaceX making space travel more affordable and accessible. In this data science capstone project, we take on the role of data scientists working for Space Y, a new rocket company aiming to compete with SpaceX. Our task is to determine the price of each launch and predict whether SpaceX will successfully reuse the first stage of its Falcon 9 rocket.
 
 ![SpaceX](https://github.com/snowieeeee/IBM-Applied-Data-Science-Capstone/blob/main/spaceX.jpg)
