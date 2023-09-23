@@ -13,11 +13,6 @@ The commercial space industry is evolving rapidly, with companies like SpaceX ma
 - Predict the successful reuse of the Falcon 9 first stage using machine learning.
 - Create informative dashboards for the Space Y team.
 
-## Data Sources
-
-- Publicly available data on SpaceX launches and outcomes.
-- Data on rocket specifications, mission parameters, and payload details.
-
 ## Project Phases
 
 The project can be divided into several key phases:
@@ -54,7 +49,7 @@ Developing interactive dashboards using Plotly Dash to present the findings and 
 
 Applying machine learning techniques to predict the success of SpaceX's first-stage reuse. Predictive models are built and trained to forecast whether the first stage will be reused.
 
-### Final Presentation (Slide)
+### Final Presentation
 
 The project culminates in a final presentation that summarizes the findings, insights, and the results of the predictive analysis. 
 
